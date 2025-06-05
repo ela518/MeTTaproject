@@ -1,0 +1,4 @@
+Gene: ENSG00000175793
+Synonyms: YWHAS, SFN, stratifin
+
+Summary: This is a mocked summary for demonstration purposes.
